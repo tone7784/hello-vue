@@ -4,5 +4,6 @@ var app = new Vue({
 		message: 'Hello Vue!',
 		miw: 'Hello Miwtoo!',
 		tone: 'Hello Toenny!',
+		tone1: 'Hello Toenny2!',
 	},
 });
